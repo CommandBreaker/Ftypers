@@ -9,7 +9,7 @@ Ftypers: F klavye ya da Q klavye hızlı yazmayı geliştirmek veya test etmek i
 5 - ve daha fazlası...
 
 
-<img width="748" height="792" alt="Screenshot 2026-02-22 000955" src="https://github.com/user-attachments/assets/d3ac2143-a5d9-45c5-8f24-6df5e0280f47" />
+<img width="500" height="500" alt="Screenshot 2026-02-22 000955" src="https://github.com/user-attachments/assets/d3ac2143-a5d9-45c5-8f24-6df5e0280f47" />
 
 
-<img width="1196" height="1242" alt="Screenshot 2026-02-22 001018" src="https://github.com/user-attachments/assets/380e7c6b-02e9-4085-90ac-2d936e8923a7" />
+<img width="500" height="500" alt="Screenshot 2026-02-22 001018" src="https://github.com/user-attachments/assets/380e7c6b-02e9-4085-90ac-2d936e8923a7" />
