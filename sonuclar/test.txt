@@ -1,0 +1,32 @@
+Ftypers Sonuç |20.02.2026| 
+----------------------------------------
+Adı Soyadı : test
+Test Adı : 1 Nolu Metin
+Tarih : 20.02.2026
+----------------------------------------
+TEST SONUÇLARI
+
+Toplam Vuruş Sayısı = 105
+Doğru kelime sayısı = 6
+Yanlış kelime sayısı = 6
+Süre = 1
+
+#Hesaplama Formülü: Toplam Vuruş - Yanlış Kelime Sayısı * 20 / Dakika
+
+Hesaplanmış Not = -15.0
+----------------------------------------
+Orjinal Metin
+
+Teknolojinin gelişimi, insan hayatını büyük ölçüde kolaylaştırmış ve değiştirmiştir. Günümüzde sabah uyanmamızdan gece yatana kadar geçen sürede, pek çok teknolojik cihazı kullanıyoruz. Akıllı telefonlar, bilgisayarlar, internet, akıllı saatler ve ev aletleri günlük yaşamın vazgeçilmez parçaları haline geldi. Teknoloji sayesinde bilgiye ulaşmak saniyeler içinde mümkün olurken, farklı şehirlerde ya da ülkelerde yaşayan insanlarla anında iletişim kurabiliyoruz. Eğitimden sağlığa, ulaşımdan güvenliğe kadar birçok alanda teknolojinin sunduğu imkânlar yaşam kalitesini artırmıştır.Ancak teknolojinin bu kadar yaygınlaşması, bazı olumsuzlukları da beraberinde getirmiştir. İnsanlar artık sosyal ortamlarda daha az vakit geçiriyor, yüz yüze iletişim yerine ekranlar aracılığıyla bağlantı kuruyor. Özellikle gençler, sosyal medya bağımlılığı nedeniyle gerçek hayattan uzaklaşabiliyor. Bu durum, hem bireysel hem de toplumsal ilişkiler üzerinde olumsuz etkiler yaratabiliyor.Teknoloji, doğru kullanıldığında büyük bir nimet; kötü kullanıldığında ise bir tehlikeye dönüşebilir. Bu nedenle teknolojik gelişmeleri yakından takip ederken, onu bilinçli ve dengeli bir şekilde kullanmayı öğrenmeliyiz. İnsan, teknolojiyi kontrol etmeli; teknoloji, insanı değil.
+----------------------------------------
+Öğrencinin Yazdığı Metin
+
+Teknolojinin gelişimiö insan hayatını buyuk olcude kolaylaitırmıi ve değiştirmiştirç Günümüzde sabah uyan
+----------------------------------------
+test
+
+
+
+
+==========
+İmza
