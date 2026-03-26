@@ -1,0 +1,28 @@
+Ftypers |26.03.2026| BK
+----------------------------------------
+Adı Soyadı : 777
+Test Adı : 1 Nolu Metin
+Tarih : 26.03.2026
+----------------------------------------
+TEST SONUÇLARI
+
+Benzerlik Orani = 68
+Net Hız (Dk/Kelime) = 15
+
+Toplam = 83
+----------------------------------------
+Orjinal Metin
+
+Teknolojinin gelişimi, insan hayatını büyük ölçüde kolaylaştırmış ve değiştirmiştir. Günümüzde sabah uyanmamızdan gece yatana kadar geçen sürede, pek çok teknolojik cihazı kullanıyoruz. Akıllı telefonlar, bilgisayarlar, internet, akıllı saatler ve ev aletleri günlük yaşamın vazgeçilmez parçaları haline geldi. Teknoloji sayesinde bilgiye ulaşmak saniyeler içinde mümkün olurken, farklı şehirlerde ya da ülkelerde yaşayan insanlarla anında iletişim kurabiliyoruz. Eğitimden sağlığa, ulaşımdan güvenliğe kadar birçok alanda teknolojinin sunduğu imkânlar yaşam kalitesini artırmıştır.Ancak teknolojinin bu kadar yaygınlaşması, bazı olumsuzlukları da beraberinde getirmiştir. İnsanlar artık sosyal ortamlarda daha az vakit geçiriyor, yüz yüze iletişim yerine ekranlar aracılığıyla bağlantı kuruyor. Özellikle gençler, sosyal medya bağımlılığı nedeniyle gerçek hayattan uzaklaşabiliyor. Bu durum, hem bireysel hem de toplumsal ilişkiler üzerinde olumsuz etkiler yaratabiliyor.Teknoloji, doğru kullanıldığında büyük bir nimet; kötü kullanıldığında ise bir tehlikeye dönüşebilir. Bu nedenle teknolojik gelişmeleri yakından takip ederken, onu bilinçli ve dengeli bir şekilde kullanmayı öğrenmeliyiz. İnsan, teknolojiyi kontrol etmeli; teknoloji, insanı değil.
+----------------------------------------
+Öğrencinin Yazdığı Metin
+
+Teknolojinin gelişimi, insan hayatını büyük ölçüde kolaylaştırmış ve değiştirmiştir. Günümüzde sabah uyanmamızdan gece yatana kadar geöen sürede, pek çok teknolojik cihazı kullanıyoruz. Akıllı telefonlar, bilgisayarlari internet, akıllı saatler ve ev aletleri günlük yaşamın vazgeçilmez parçaları haline geldi. Teknoloji sayesinde bilgiye ulaşmak sanıyeler içinde mümkün olurkenn,, farklı şehirlerde ya da ülkelerde yaşayan insanlarla anında iletişim kurabiliyoruz, Eğitimden sağlığa, ulaşımından güvenliğe kadar birçok alanda teknolojinin sunduiu imkanlar yaşam kalitesini artırmıitır. Ancak teknolojinin bu kadar yaygınlaşması, bazı olumsuzluklara da beraberinde geti
+----------------------------------------
+777
+
+
+
+
+==========
+İmza
